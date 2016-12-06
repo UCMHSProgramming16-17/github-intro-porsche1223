@@ -2,3 +2,5 @@ Core Concepts:
 Commit: snapshot of changes since last commit
 Workspace/working directory - folder you're working in
 Git branch - shows what branches you have
+
+I'm modifying this file because Ms. Gerstein told me to
